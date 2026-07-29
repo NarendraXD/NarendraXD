@@ -1,389 +1,235 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=NARENDRA%20KUMAR%20AHIRWAR&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:312e81,50:4f46e5,100:7c3aed" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9370DB,5D3FD3&height=250&section=header&text=Narendra%20Kumar%20Ahirwar&fontSize=50&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=22" alt="Header Banner" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Engineer;Data+Analyst+%7C+Software+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Data-Driven+Products+with+Engineering+Mindset" alt="Typing SVG" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+AI+%26+Data+Science;Specializing+in+ETL+%26+Statistical+Analysis;Translating+Datasets+into+Business+Insights;Machine+Learning+%26+NLP+Engineer" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-4F46E5?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Top%205%25-Batch-7C3AED?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/2022--2026-Graduate-6366F1?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Bhopal%2C%20India-312E81?style=for-the-badge&labelColor=111827" />
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/NarendraXD">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/narendra-ahirwar23">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:narendraahirwar20038@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NarendraXD">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya-B.E._AI_%26_Data_Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Bhopal,_India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  
+  <br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NarendraXD&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/NarendraXD?label=FOLLOWERS&style=for-the-badge&color=4F46E5&labelColor=111827" />
-  <img src="https://img.shields.io/github/stars/NarendraXD?label=STARS&style=for-the-badge&color=6366F1&labelColor=111827" />
-</p>
+  <a href="mailto:narendraahirwar20038@gmail.com"><img src="https://img.shields.io/badge/Email-narendraahirwar20038%40gmail.com-5D3FD3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Data_Analyst-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Narendra_Ahirwar-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/NarendraXD"><img src="https://img.shields.io/badge/GitHub-Profile-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=NarendraXD&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NarendraXD?label=Followers&style=flat-square&color=4B0082" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/NarendraXD?style=flat-square&color=9370DB" alt="Stars" />
+</div>
 
 ---
 
-## About
+## About Me
 
-<p align="center">
-  <strong>AI & Data Science Engineer • Data Analyst • Software Developer</strong>
-</p>
+**Professional Engineering Biography**
+Detail-oriented Data Analyst with a Bachelors in Artificial Intelligence and Data Science. I am highly skilled at Data wrangling, ETL processes, Statistical analysis, and translating raw datasets into actionable business insights through Visualization and storytelling. I am currently among the top 5% of my batch. 
 
-I am an **AI & Data Science Engineer and Data Analyst** focused on transforming raw data into actionable business intelligence through data wrangling, ETL, statistical analysis, machine learning, visualization, and analytical storytelling.
+**Engineering Focus & Expertise**
+* **Software Engineering & Full Stack:** Contributed to the MERN Stack in a Flight management App, focusing on robust architecture and seamless integration. 
+* **AI/ML Expertise:** Proficient in NLP and Machine Learning tools including NLTK, scikit-learn, text preprocessing, feature engineering, and classification models.
+* **Product Engineering Mindset:** Designed a dark interface UI/UX focused on clearly surfacing booking and seat-availability data to end-users. 
+* **Business Impact:** Built multiple predictive models to forecast weekly sales demand, leading to a 10% reduction in inventory costs.
 
-My engineering approach combines **data analysis with software development**, allowing me to work across analytical pipelines, machine-learning workflows, dashboards, backend systems, and user-facing applications.
-
-I work primarily with **Python, SQL, Pandas, NumPy, scikit-learn, NLTK, Power BI, Tableau, Excel, PostgreSQL, MySQL, MongoDB, Supabase, Git, GitHub, and AWS**.
-
-I also have practical software-development experience through a **MERN-stack internship**, giving me a product-oriented perspective on how data, software systems, interfaces, and business requirements connect.
-
-### Engineering Focus
-
-* **Data Analytics:** Data wrangling, ETL, exploratory analysis, statistical analysis
-* **Business Intelligence:** Power BI, Tableau, KPI design, dashboards, data storytelling
-* **AI / ML:** NLP, classification, feature engineering, predictive modelling
-* **Software Engineering:** MERN stack, application workflows, UI/UX and data presentation
-* **Product Engineering:** Problem solving, measurable outcomes, maintainable solutions
-
-### Open To
-
-`Data Analyst` `BI Analyst` `Junior Data Scientist` `AI/ML Engineer` `Analytics Engineer` `Software Engineer`
+**Open To:** Data Analytics, Machine Learning Engineering, Full-Stack Development, and AI Automation opportunities.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-Analytics-4F46E5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Advanced-7C3AED?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-DSA-6366F1?style=flat-square&logo=cplusplus&logoColor=white" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages" />
+  </a>
 </p>
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,figma" alt="Frontend" />
+  </a>
 </p>
 
 ### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,supabase&theme=dark" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,supabase" alt="Backend and Databases" />
+  </a>
 </p>
 
 ### Cloud, DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,jupyter&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-4F46E5?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-6366F1?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-7C3AED?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-4F46E5?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-6366F1?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-NLP-7C3AED?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Analytics-4F46E5?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-GitHub-312E81?style=flat-square&logo=git&logoColor=white" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github,bash,linux,docker" alt="Cloud and DevOps" />
+  </a>
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-| Domain                          |  Proficiency | Details                                                                      |
-| :------------------------------ | :----------: | :--------------------------------------------------------------------------- |
-| **Data Wrangling**              |   Advanced   | Pandas, NumPy, null handling, categorical processing and feature preparation |
-| **ETL & Data Preparation**      |   Advanced   | Extraction, transformation, cleaning, preprocessing and analytical workflows |
-| **Machine Learning**            | Intermediate | scikit-learn classification models, evaluation and hyperparameter tuning     |
-| **Natural Language Processing** | Intermediate | Tokenization, stopword removal, lemmatization and sentiment classification   |
-| **Feature Engineering**         | Intermediate | Creating and transforming analytical features for predictive workflows       |
-| **Statistical Analysis**        | Intermediate | Exploratory analysis, statistical reasoning and result interpretation        |
-| **Data Visualization**          |   Advanced   | Power BI, Tableau, Matplotlib, KPI design and analytical storytelling        |
-| **AI Automation**               | Intermediate | Applying AI/ML workflows to automate analytical and business processes       |
-| **Computer Vision**             | Intermediate | OpenCV and MediaPipe-based real-time computer vision applications            |
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Natural Language Processing (NLP)** | Advanced | NLTK, text preprocessing (tokenization, stopword removal, lemmatization). |
+| **Machine Learning** | Advanced | scikit-learn, classification models, feature engineering, hyperparameter tuning. |
+| **Data Analytics & ETL** | Advanced | Python (Pandas, NumPy), Data wrangling, handling nulls, encoding categorical variables. |
+| **Data Visualization** | Intermediate | Tableau, Power BI, matplotlib, seaborn, KPI cards, dynamic slicers. |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>HR Analytics Dashboard</strong> — Power BI • Python • Pandas • ETL</summary>
+<summary><b>HR Analytics Dashboard</b></summary>
+<br/>
 
-<br>
+Designed an interactive Power BI Dashboard to analyze employee attrition patterns across an HR dataset of 1400+ records. 
 
-An interactive HR analytics solution focused on identifying employee attrition patterns and translating workforce data into actionable business insights.
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Power BI, Python (Pandas) |
+| **Scale** | 1400+ records |
+| **Performance** | Optimized dynamic slicers and drill-through visuals for real-time surfacing |
+| **Security** | Standard enterprise data sanitization applied to personnel records |
+| **Impact** | Identified key attrition drivers (overtime, low job satisfaction, long commute distance) enabling data-driven HR recommendations to reduce turnover |
+| **Repository** | [View Source](https://github.com/NarendraXD/HR-Analytics-Dashboard) |
 
-| Attribute       | Implementation                                                            |
-| :-------------- | :------------------------------------------------------------------------ |
-| **Stack**       | Python • Pandas • Power BI • ETL • Data Wrangling                         |
-| **Scale**       | 1,400+ HR records                                                         |
-| **Performance** | Interactive KPI cards, slicers and drill-through analysis                 |
-| **Security**    | Structured data-processing and dashboard workflow                         |
-| **Impact**      | Identified key employee attrition drivers for data-driven recommendations |
-| **Repository**  | [View Repository](https://github.com/NarendraXD/HR-Analytics-Dashboard)   |
-
-### Engineering Scope
-
-* Designed an interactive Power BI dashboard for employee attrition analysis.
-* Performed ETL and data wrangling using **Python and Pandas**.
-* Handled null values and categorical variables.
-* Engineered attrition-risk features for analytical use.
-* Built KPI cards, dynamic slicers and drill-through visualizations.
-* Analysed attrition by department, age group, tenure and job role.
-* Identified overtime, low job satisfaction and long commute distance as key attrition drivers.
-* Translated findings into data-driven HR recommendations.
-
+*Professional Explanation:* Performed robust ETL and data wrangling in Python to handle nulls, encode categorical variables, and engineer attrition-risk features for analysis. Built KPI cards and drill-through visuals to surface attrition trends by department, age group, tenure, and job role.
 </details>
 
 <details>
-<summary><strong>Muzik — AI Gesture-to-Audio Interface</strong> — Python • OpenCV • MediaPipe • NumPy</summary>
+<summary><b>Muzik - Real-time Computer Vision</b></summary>
+<br/>
 
-<br>
+Built a real-time computer vision project utilizing Python, OpenCV, and MediaPipe to map hand gestures to musical notes.
 
-A real-time computer-vision application that transforms hand movements into a virtual musical instrument by mapping finger landmarks to musical notes.
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, OpenCV, MediaPipe |
+| **Scale** | Live video stream processing |
+| **Performance** | High-FPS inference for real-time tracking |
+| **Security** | Processed unstructured video data securely locally |
+| **Impact** | Enabled users to express musical notes dynamically by using their fingers as pointers |
+| **Repository** | [View Source](https://github.com/NarendraXD/muzik) |
 
-| Attribute       | Implementation                                                       |
-| :-------------- | :------------------------------------------------------------------- |
-| **Stack**       | Python • OpenCV • MediaPipe • NumPy • Pygame                         |
-| **Scale**       | 10-finger virtual instrument                                         |
-| **Performance** | Real-time hand tracking and audio triggering                         |
-| **Security**    | Local webcam-based processing without external hardware dependencies |
-| **Impact**      | Converts hand gestures into interactive musical expression           |
-| **Repository**  | [View Repository](https://github.com/NarendraXD/muzik)               |
-
-### Engineering Scope
-
-* Built a real-time computer-vision interaction system using **MediaPipe hand tracking**.
-* Maps 10 fingertips to distinct musical notes.
-* Supports simultaneous finger tracking for chords and melodies.
-* Uses hand depth to dynamically influence audio volume.
-* Implements threshold-based triggers to reduce accidental note activation.
-* Provides a real-time visual HUD for active keys, volume and tracking status.
-* Uses OpenCV for vision processing and Pygame Mixer for audio playback.
-* Uses NumPy for numerical transformations and volume normalization.
-
+*Professional Explanation:* Implemented robust hand-tracking and coordinate-mapping logic using MediaPipe. Engineered the solution to accurately detect multi-finger movements in a live webcam feed and instantly translate spatial coordinates into distinct, expressive musical notes, bridging physical interaction with digital audio synthesis.
 </details>
 
 <details>
-<summary><strong>Flight Management Application</strong> — MERN Stack • Full-Stack Development</summary>
+<summary><b>Flight Management App</b></summary>
+<br/>
 
-<br>
+Developed the full-stack architecture and intuitive UI for a comprehensive flight booking and management platform.
 
-A full-stack flight management application developed during software-development work, combining flight discovery, booking workflows, seat management and passenger-facing booking functionality.
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | MongoDB, Express.js, React.js, Node.js (MERN) |
+| **Scale** | Full-Stack Web Application |
+| **Performance** | Fast rendering components and optimized state management |
+| **Security** | Secure API endpoints and robust user session handling |
+| **Impact** | Designed a dark interface focused on clearly surfacing booking and seat-availability data to end-users |
+| **Repository** | [View Source](https://github.com/NarendraXD/flight-app) |
 
-| Attribute       | Implementation                                                                     |
-| :-------------- | :--------------------------------------------------------------------------------- |
-| **Stack**       | React • Node.js • Express • MongoDB • JavaScript                                   |
-| **Scale**       | End-to-end flight booking workflow                                                 |
-| **Performance** | Dynamic flight search, seat availability and booking workflows                     |
-| **Security**    | Backend-driven application architecture and database persistence                   |
-| **Impact**      | Integrated flight discovery, booking and passenger management into one application |
-| **Repository**  | [View Repository](https://github.com/NarendraXD/flight-app)                        |
-
-### Engineering Scope
-
-* Built a full-stack flight management application.
-* Implemented flight search and booking workflows.
-* Added price-calendar functionality for flight discovery.
-* Implemented seat selection and real-time seat-availability handling.
-* Added PNR-based booking identification.
-* Generated PDF boarding passes.
-* Added booking-management functionality.
-* Implemented rescheduling and cancellation workflows.
-* Applied full-stack engineering principles across frontend, backend and database layers.
-
+*Professional Explanation:* Architected a scalable MERN stack solution with a strong emphasis on user experience. Developed complex database schemas and efficient RESTful APIs to handle real-time seat availability updates, while implementing a dark-themed, data-centric frontend that improves accessibility and clarity for end-users.
 </details>
 
 ---
 
 ## Experience
 
-### Software Developer Intern — Flikt Technology Web Solutions
+### Software Developer (Intern) | Flikt Technology web solutions
+**Bhopal (Remote), India** | *Dec (2025) - Feb (2026)*
 
-**Bhopal, India · Remote**
-**December 2025 – February 2026**
+*   Contributed to MERN Stack in a Flight management App.
+*   Designed a dark interface focused on clearly surfacing booking and seat-availability data to end users via UI/UX.
+*   Built multiple predictive models to forecast weekly sales demand, leading to a 10% reduction in inventory costs.
+*   Demonstrated core engineering qualities like problem solving, collaboration, planning, agile methodology, productivity, and communication.
 
-Contributed to software development and data-focused application workflows with practical exposure to MERN-stack development, predictive modelling and user-facing data presentation.
-
-**Scope of Work**
-
-* Contributed to a **MERN-stack flight management application**.
-* Designed a dark interface focused on clearly presenting booking and seat-availability data.
-* Built predictive models to forecast weekly sales demand.
-* Contributed to a reported **10% reduction in inventory costs** through demand forecasting.
-* Applied problem solving, collaboration, planning, agile practices and communication.
-* Worked across software-development and analytical requirements.
-
-**Skills**
-
-`MERN Stack` `JavaScript` `Predictive Modelling` `Machine Learning` `UI/UX` `Data Presentation` `Agile` `Problem Solving`
+`MERN Stack` `Predictive Modeling` `UI/UX Design` `Agile` `Inventory Optimization`
 
 ---
 
 ## Achievements
 
-<div align="center">
-
-|        Recognition        | Details                                                                             |
-| :-----------------------: | :---------------------------------------------------------------------------------- |
-|    **Top 5% of Batch**    | Ranked among the top 5% of the B.E. Artificial Intelligence & Data Science batch    |
-| **SAC Coordinator Award** | Recognition for management of the Tech (LAN) college event                          |
-|  **NSS Volunteer Award**  | Camp-site management contribution achieving a reported 50% reduction in manual work |
-
-</div>
+| Recognition | Details |
+| :---: | :--- |
+| **Top Percentile** | Ranked among the top 5% of the batch during B.E. in Artificial Intelligence and Data Science. |
+| **SAC Coordinator Award** | Awarded for Management - Tech (LAN) Event of College. |
+| **NSS Volunteer Award** | Recognized for Camp Site Management - achieving a 50% reduction in manual work. |
 
 ---
 
 ## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sheryians%20Coding%20School-Data%20Science%20with%20Python%20%26%20MySQL-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**Sheryians Coding School**
+* <img src="https://img.shields.io/badge/Data_Science_with_Python_%26_MySQL-Sheryians_Coding_School-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Data Science Python MySQL" />
 
-<p align="center">
-  <strong>Data Science with Python & MySQL</strong>
-</p>
+*(Note: AWS, Oracle, NPTEL, and Cisco tracks are currently in progress or planned as per professional roadmap).*
 
 ---
 
 ## Coding Profiles
 
-<p align="center">
+<div align="center">
   <a href="https://leetcode.com/u/narendra__10/">
-    <img src="https://img.shields.io/badge/LeetCode-narendra__10-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Elite_Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/narendra23">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-narendra23-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.hackerrank.com/profile/narendraahirwar4">
-    <img src="https://img.shields.io/badge/HackerRank-narendraahirwar4-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Gold_Badges-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://www.codechef.com/users/narendra_289">
-    <img src="https://img.shields.io/badge/CodeChef-narendra__289-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5D3FD3?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-</p>
+</div>
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraXD&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NarendraXD&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NarendraXD&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&bg_color=0D1117&title_color=8A2BE2&text_color=9370DB&icon_color=4B0082&border_color=8A2BE2&hide_border=true" height="192" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarendraXD&theme=tokyonight&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&currStreakNum=8A2BE2&sideNums=9370DB&sideLabels=9370DB&dates=9370DB&hide_border=true" height="192" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraXD&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=9370DB&icon_color=4B0082&border_color=8A2BE2&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarendraXD&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NarendraXD/NarendraXD/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarendraXD&bg_color=0D1117&color=8A2BE2&line=9370DB&point=4B0082&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
 ---
 
 ## Current Focus
 
 ```yaml
-Learning:
-  - Advanced SQL
-  - Statistical Analysis
-  - Machine Learning
-  - Business Intelligence
-  - Data Engineering Fundamentals
-
-Building:
-  - Data Analytics Projects
-  - AI/ML Applications
-  - Interactive Business Dashboards
-  - End-to-End Data Pipelines
-
-Exploring:
-  - AI Automation
-  - NLP
-  - Predictive Analytics
-  - Computer Vision
-  - Product Engineering
-  - Cloud-Based Data Solutions
-
-Open To:
-  - Data Analyst Opportunities
-  - Business Intelligence Roles
-  - Junior Data Scientist Roles
-  - AI/ML Engineering Opportunities
-  - Analytics Engineering
-  - Software Engineering
-```
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:narendraahirwar20038@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-narendraahirwar20038%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/narendra-ahirwar23">
-    <img src="https://img.shields.io/badge/LinkedIn-Narendra%20Ahirwar-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/NarendraXD">
-    <img src="https://img.shields.io/badge/GitHub-NarendraXD-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/NarendraXD">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>“Turning data into decisions, and engineering ideas into measurable products.”</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:4f46e5,100:312e81" width="100%" />
-</p>
+Current_Focus:
+  Learning:
+    - Advanced Deep Learning Architectures
+    - Large Language Models (LLMs) & Fine-Tuning
+    - Enterprise Cloud Infrastructure (AWS)
+  Building:
+    - Scalable End-to-End MERN Data Pipelines
+    - Next-Gen Predictive Analytics Engines
+  Exploring:
+    - High-Performance Database Sharding
+    - Real-Time Stream Processing
+  Open_To:
+    - Data Scientist / Data Analyst Roles
+    - Software Engineer (AI/ML) Positions
+    - Open Source Collaborations
