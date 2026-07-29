@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6d28d9,a855f7&height=200&section=header&text=Narendra%20Kumar%20Ahirwar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Narendra%20Kumar%20Ahirwar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16&animation=twinkling)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍%20Bhopal%2C%20MP-India-8B5CF6?style=flat-square)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Bhopal%2C%20MP-India-8B5CF6?style=flat-square)
 
 <br/>
 
@@ -103,7 +103,7 @@ Beyond analytics, I contribute to **full stack MERN applications**, architect da
 ## 〈 Featured Projects 〉
 
 <details>
-<summary><b> HR Analytics Dashboard — Power BI + Python ETL</b></summary>
+<summary><b>📊 HR Analytics Dashboard — Power BI + Python ETL</b></summary>
 
 <br/>
 
@@ -124,7 +124,7 @@ The pipeline begins with a Python ETL layer using Pandas to handle null imputati
 </details>
 
 <details>
-<summary><b> SenticScraper — Sentiment Analysis Engine</b></summary>
+<summary><b>🧠 SenticScraper — Sentiment Analysis Engine</b></summary>
 
 <br/>
 
@@ -144,7 +144,7 @@ Multiple scikit-learn classification algorithms were trained and benchmarked; th
 </details>
 
 <details>
-<summary><b> Flight Management Application — MERN Stack</b></summary>
+<summary><b>✈️ Flight Management Application — MERN Stack</b></summary>
 
 <br/>
 
@@ -163,7 +163,7 @@ Designed a dark-themed, data-forward UI surfacing real-time booking data and sea
 </details>
 
 <details>
-<summary><b> Muzik — Full Stack Music Application</b></summary>
+<summary><b>🎵 Muzik — Full Stack Music Application</b></summary>
 
 <br/>
 
@@ -243,22 +243,12 @@ Embedded within a product engineering team building a production-grade MERN flig
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=NarendraXD&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=6D28D9&ring=A855F7&fire=7C3AED&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=7C3AED" />
 
 <br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraXD&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
-
-</div>
-
----
-
-## 〈 GitHub Trophies 〉
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NarendraXD&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -322,9 +312,9 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-narendraahirwar20038%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendraahirwar20038@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Kumar%20Ahirwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-kumar-ahirwar-6a4b58290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Kumar%20Ahirwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-ahirwar23/)
 [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarendraXD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-narendraahirwar.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraahirwar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-narendraxd.github.io%2FPortfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraxd.github.io/Portfolio/)
 
 </div>
 
@@ -334,6 +324,6 @@ current_focus:
 
 *"Data is not information, information is not knowledge, knowledge is not understanding — build the full chain."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6d28d9,a855f7&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer)
 
 </div>
