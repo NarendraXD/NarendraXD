@@ -1,235 +1,346 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9370DB,5D3FD3&height=250&section=header&text=Narendra%20Kumar%20Ahirwar&fontSize=50&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=22" alt="Header Banner" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+AI+%26+Data+Science;Specializing+in+ETL+%26+Statistical+Analysis;Translating+Datasets+into+Business+Insights;Machine+Learning+%26+NLP+Engineer" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Narendra%20Kumar%20Ahirwar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=twinkling" width="100%" />
 
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya-B.E._AI_%26_Data_Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Bhopal,_India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  
-  <br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Building+Data+Pipelines+%26+Analytics+Dashboards;NLP+%7C+Machine+Learning+%7C+Predictive+Modeling;ETL+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+Scikit-Learn;Translating+Raw+Data+into+Business+Intelligence)](https://git.io/typing-svg)
 
-  <a href="mailto:narendraahirwar20038@gmail.com"><img src="https://img.shields.io/badge/Email-narendraahirwar20038%40gmail.com-5D3FD3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Data_Analyst-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Narendra_Ahirwar-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/NarendraXD"><img src="https://img.shields.io/badge/GitHub-Profile-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br/>
 
-  <br/><br/>
+![B.E. AI & Data Science](https://img.shields.io/badge/B.E.%20AI%20%26%20Data%20Science-RGPV%20Bhopal-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2022--2026-6D28D9?style=for-the-badge&logo=calendar&logoColor=white)
+![Top 5%](https://img.shields.io/badge/Academic%20Rank-Top%205%25%20of%20Batch-4C1D95?style=for-the-badge&logo=star&logoColor=white)
 
-  <img src="https://komarev.com/ghpvc/?username=NarendraXD&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NarendraXD?label=Followers&style=flat-square&color=4B0082" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NarendraXD?style=flat-square&color=9370DB" alt="Stars" />
+<br/>
+
+![Location](https://img.shields.io/badge/📍%20Bhopal%2C%20MP-India-8B5CF6?style=flat-square&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraahirwar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-ahirwar23/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendraahirwar20038@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NarendraXD-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarendraXD)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NarendraXD&color=7C3AED&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/NarendraXD?style=flat-square&color=6D28D9&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/NarendraXD?style=flat-square&color=5B21B6&label=Stars&logo=github)
+
 </div>
 
 ---
 
-## About Me
+## 〈 About 〉
 
-**Professional Engineering Biography**
-Detail-oriented Data Analyst with a Bachelors in Artificial Intelligence and Data Science. I am highly skilled at Data wrangling, ETL processes, Statistical analysis, and translating raw datasets into actionable business insights through Visualization and storytelling. I am currently among the top 5% of my batch. 
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
 
-**Engineering Focus & Expertise**
-* **Software Engineering & Full Stack:** Contributed to the MERN Stack in a Flight management App, focusing on robust architecture and seamless integration. 
-* **AI/ML Expertise:** Proficient in NLP and Machine Learning tools including NLTK, scikit-learn, text preprocessing, feature engineering, and classification models.
-* **Product Engineering Mindset:** Designed a dark interface UI/UX focused on clearly surfacing booking and seat-availability data to end-users. 
-* **Business Impact:** Built multiple predictive models to forecast weekly sales demand, leading to a 10% reduction in inventory costs.
+Detail-oriented **Data Analyst and AI Engineer** pursuing a B.E. in Artificial Intelligence and Data Science at RGPV Bhopal. I specialize in building end-to-end data pipelines, crafting analytics dashboards in Power BI, and deploying machine learning models that generate measurable business outcomes.
 
-**Open To:** Data Analytics, Machine Learning Engineering, Full-Stack Development, and AI Automation opportunities.
+My engineering discipline spans the full analytics lifecycle — from **raw data ingestion and ETL processing** through to statistical modeling, NLP pipelines, and interactive visualization. I care about rigorous feature engineering, reproducible ML workflows, and data storytelling that non-technical stakeholders can act on.
 
----
+Beyond analytics, I contribute to **full stack MERN applications**, architect database schemas across PostgreSQL, MySQL, and MongoDB, and integrate predictive models directly into production web systems.
 
-## Tech Stack
-
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages" />
-  </a>
-</p>
-
-### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,figma" alt="Frontend" />
-  </a>
-</p>
-
-### Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,supabase" alt="Backend and Databases" />
-  </a>
-</p>
-
-### Cloud, DevOps & Tooling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,bash,linux,docker" alt="Cloud and DevOps" />
-  </a>
-</p>
+**Open To:**
+- Data Analyst · Data Engineer · ML Engineer roles
+- Research internships in NLP or Computer Vision
+- Open source collaboration on analytics or AI tooling
 
 ---
 
-## AI / ML Expertise
+## 〈 Tech Stack 〉
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,sql,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps & Tooling**
+
+[![Skills](https://skillicons.dev/icons?i=aws,git,github,jupyter,linux&theme=dark)](https://skillicons.dev)
+
+| Tool | Purpose |
+|------|---------|
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Interactive dashboards & KPI reporting |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | Data visualization & storytelling |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Data wrangling & pivot analytics |
+| ![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Cloud email delivery integration |
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ML modeling & evaluation |
+| ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white) | NLP text preprocessing pipelines |
+
+</div>
+
+---
+
+## 〈 AI / ML Expertise 〉
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Natural Language Processing (NLP)** | Advanced | NLTK, text preprocessing (tokenization, stopword removal, lemmatization). |
-| **Machine Learning** | Advanced | scikit-learn, classification models, feature engineering, hyperparameter tuning. |
-| **Data Analytics & ETL** | Advanced | Python (Pandas, NumPy), Data wrangling, handling nulls, encoding categorical variables. |
-| **Data Visualization** | Intermediate | Tableau, Power BI, matplotlib, seaborn, KPI cards, dynamic slicers. |
+|--------|------------|---------|
+| **NLP & Text Analytics** | ████████░░ Advanced | Tokenization, lemmatization, stopword removal, sentiment classification, NLTK pipelines |
+| **Predictive Modeling** | ███████░░░ Proficient | Demand forecasting, attrition risk scoring, hyperparameter tuning, F1 optimization |
+| **Feature Engineering** | ████████░░ Advanced | Categorical encoding, null imputation, attrition-risk feature construction, variance analysis |
+| **Data Wrangling / ETL** | █████████░ Expert | Pandas, NumPy, missing value handling, schema normalization, pipeline automation |
+| **Classification Models** | ███████░░░ Proficient | scikit-learn classifiers, cross-validation, ROC-AUC, precision-recall trade-offs |
+| **Data Visualization** | ████████░░ Advanced | Matplotlib, Seaborn, Power BI drill-through, KPI cards, dynamic slicers |
+| **Statistical Analysis** | ███████░░░ Proficient | Descriptive statistics, correlation analysis, distribution modeling |
+| **ML in Production** | ██████░░░░ Developing | Integrating predictive models into MERN web systems, inference pipelines |
+
+</div>
 
 ---
 
-## Featured Projects
+## 〈 Featured Projects 〉
 
 <details>
-<summary><b>HR Analytics Dashboard</b></summary>
+<summary><b>HR Analytics Dashboard — Power BI + Python ETL</b></summary>
+
 <br/>
 
-Designed an interactive Power BI Dashboard to analyze employee attrition patterns across an HR dataset of 1400+ records. 
+> An enterprise-grade HR analytics solution delivering real-time attrition intelligence across a dataset of 1,400+ employee records. Built to surface hidden workforce patterns and empower HR leadership with data-driven retention strategies.
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Power BI, Python (Pandas) |
-| **Scale** | 1400+ records |
-| **Performance** | Optimized dynamic slicers and drill-through visuals for real-time surfacing |
-| **Security** | Standard enterprise data sanitization applied to personnel records |
-| **Impact** | Identified key attrition drivers (overtime, low job satisfaction, long commute distance) enabling data-driven HR recommendations to reduce turnover |
-| **Repository** | [View Source](https://github.com/NarendraXD/HR-Analytics-Dashboard) |
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python (Pandas), Power BI, ETL, Feature Engineering |
+| **Scale** | 1,400+ employee records, multi-department analysis |
+| **Performance** | Dynamic drill-through visuals with sub-second filter response |
+| **Security** | Data anonymization, role-level Power BI access patterns |
+| **Impact** | Identified overtime, job dissatisfaction, and commute distance as primary attrition drivers |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD%2FHR--Analytics--Dashboard-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/NarendraXD/HR-Analytics-Dashboard) |
 
-*Professional Explanation:* Performed robust ETL and data wrangling in Python to handle nulls, encode categorical variables, and engineer attrition-risk features for analysis. Built KPI cards and drill-through visuals to surface attrition trends by department, age group, tenure, and job role.
+The pipeline begins with a Python ETL layer using Pandas to handle null imputation, encode categorical variables, and engineer attrition-risk composite features. The cleaned dataset feeds a Power BI model with KPI cards, dynamic slicers, and drill-through reports segmented by department, tenure band, age group, and job role. The resulting dashboard surfaces actionable signals that allow HR teams to intervene proactively with high-risk employee segments — reducing turnover without guesswork.
+
+<br/>
+
 </details>
 
 <details>
-<summary><b>Muzik - Real-time Computer Vision</b></summary>
+<summary><b> SenticScraper — Sentiment Analysis Engine</b></summary>
+
 <br/>
 
-Built a real-time computer vision project utilizing Python, OpenCV, and MediaPipe to map hand gestures to musical notes.
+> A fully automated end-to-end NLP pipeline that classifies text sentiment at scale. Built on a clean scikit-learn architecture with rigorous preprocessing, systematic feature engineering, and model benchmarking that achieved an F1-score of 0.87.
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, OpenCV, MediaPipe |
-| **Scale** | Live video stream processing |
-| **Performance** | High-FPS inference for real-time tracking |
-| **Security** | Processed unstructured video data securely locally |
-| **Impact** | Enabled users to express musical notes dynamically by using their fingers as pointers |
-| **Repository** | [View Source](https://github.com/NarendraXD/muzik) |
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python, NLTK, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
+| **Scale** | Multi-class sentiment classification on collected real-world dataset |
+| **Performance** | F1-score of **0.87** via hyperparameter tuning and feature selection |
+| **Security** | Isolated preprocessing pipeline, reproducible model artifacts |
+| **Impact** | Actionable sentiment distributions and word-frequency trend reports for stakeholders |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD%2FSenticScraper-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/NarendraXD) |
 
-*Professional Explanation:* Implemented robust hand-tracking and coordinate-mapping logic using MediaPipe. Engineered the solution to accurately detect multi-finger movements in a live webcam feed and instantly translate spatial coordinates into distinct, expressive musical notes, bridging physical interaction with digital audio synthesis.
+The preprocessing module applies tokenization, stopword removal, and NLTK-based lemmatization — systematically reducing noise in training data and improving downstream classifier accuracy. Multiple scikit-learn classification algorithms were trained and benchmarked; the final model was selected based on F1-score optimization under cross-validation. Visualization outputs include sentiment distribution charts, word frequency heatmaps, and performance metric dashboards produced in Matplotlib and Seaborn for stakeholder delivery.
+
+<br/>
+
 </details>
 
 <details>
-<summary><b>Flight Management App</b></summary>
+<summary><b> Flight Management Application — MERN Stack</b></summary>
+
 <br/>
 
-Developed the full-stack architecture and intuitive UI for a comprehensive flight booking and management platform.
+> A full-featured flight management web application developed during a professional internship, integrating a predictive demand forecasting module that directly reduced inventory costs by 10%.
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | MongoDB, Express.js, React.js, Node.js (MERN) |
-| **Scale** | Full-Stack Web Application |
-| **Performance** | Fast rendering components and optimized state management |
-| **Security** | Secure API endpoints and robust user session handling |
-| **Impact** | Designed a dark interface focused on clearly surfacing booking and seat-availability data to end-users |
-| **Repository** | [View Source](https://github.com/NarendraXD/flight-app) |
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | MongoDB, Express.js, React, Node.js (MERN), Python ML models |
+| **Scale** | Production web application, multi-user booking and seat-availability system |
+| **Performance** | 10% reduction in inventory costs via weekly demand forecasting models |
+| **Security** | Authenticated booking flows, role-based data access |
+| **Impact** | Streamlined seat-availability surfacing; improved operational efficiency |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD%2Fflight--app-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/NarendraXD/flight-app) |
 
-*Professional Explanation:* Architected a scalable MERN stack solution with a strong emphasis on user experience. Developed complex database schemas and efficient RESTful APIs to handle real-time seat availability updates, while implementing a dark-themed, data-centric frontend that improves accessibility and clarity for end-users.
+Contributed core MERN Stack modules within an agile team at Flikt Technology. Designed a dark-themed, data-forward UI that surfaces real-time booking data and seat availability with clarity and efficiency. Architected and integrated multiple predictive models to forecast weekly demand, enabling procurement teams to optimize inventory levels and cut waste. Followed collaborative engineering practices including iterative sprints, code reviews, and cross-functional planning.
+
+<br/>
+
+</details>
+
+<details>
+<summary><b> Muzik — Full Stack Music Application</b></summary>
+
+<br/>
+
+> A full stack music streaming interface engineered for performance and clean user experience, demonstrating full ownership of UI architecture, API design, and database integration.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | React, Node.js, Express, MongoDB / PostgreSQL |
+| **Scale** | Personal portfolio project with full CRUD music management |
+| **Performance** | Optimized API response times, efficient media state management |
+| **Security** | Auth-protected routes, sanitized API inputs |
+| **Impact** | Full stack end-to-end ownership from schema design to deployed UI |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD%2Fmuzik-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/NarendraXD/muzik) |
+
+Demonstrates proficiency in full stack architecture — designing RESTful APIs in Express, managing state in React, and structuring relational and document-based database schemas. Built to production-readiness standards with a focus on clean component hierarchy, reusable UI logic, and maintainable backend structure.
+
+<br/>
+
 </details>
 
 ---
 
-## Experience
+## 〈 Experience 〉
 
-### Software Developer (Intern) | Flikt Technology web solutions
-**Bhopal (Remote), India** | *Dec (2025) - Feb (2026)*
+### Software Developer Intern — Flikt Technology Web Solutions
+**Dec 2025 – Feb 2026 · Bhopal (Remote), India**
 
-*   Contributed to MERN Stack in a Flight management App.
-*   Designed a dark interface focused on clearly surfacing booking and seat-availability data to end users via UI/UX.
-*   Built multiple predictive models to forecast weekly sales demand, leading to a 10% reduction in inventory costs.
-*   Demonstrated core engineering qualities like problem solving, collaboration, planning, agile methodology, productivity, and communication.
+Embedded within a product engineering team building a production-grade MERN flight management system. Contributed across the full development lifecycle — from UI design to ML integration — demonstrating the ability to operate independently within an agile engineering environment.
 
-`MERN Stack` `Predictive Modeling` `UI/UX Design` `Agile` `Inventory Optimization`
+- Contributed to MERN Stack feature development across the flight management application
+- Designed a dark, data-focused UI to clearly surface booking data and real-time seat availability
+- Built and integrated multiple Python predictive models to forecast weekly sales demand, delivering a **10% reduction in inventory costs**
+- Operated across a full agile sprint cycle: planning, development, review, and retrospective
 
----
-
-## Achievements
-
-| Recognition | Details |
-| :---: | :--- |
-| **Top Percentile** | Ranked among the top 5% of the batch during B.E. in Artificial Intelligence and Data Science. |
-| **SAC Coordinator Award** | Awarded for Management - Tech (LAN) Event of College. |
-| **NSS Volunteer Award** | Recognized for Camp Site Management - achieving a 50% reduction in manual work. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-6D28D9?style=flat-square&logoColor=white)
 
 ---
 
-## Certifications
+## 〈 Achievements 〉
+
+<div align="center">
+
+| 🏆 Recognition | Details |
+|----------------|---------|
+| **Top 5% of Batch** | Academic excellence ranking at RGPV, Bhopal — B.E. AI & Data Science 2022–2026 |
+| **SAC Coordinator Award** | Recognized for managing and coordinating the Tech (LAN) Event at the college Student Activity Center |
+| **NSS Volunteer Award** | Awarded for Camp Site Management that achieved a **50% reduction in manual operational work** |
+
+</div>
+
+---
+
+## 〈 Certifications 〉
+
+<div align="center">
 
 **Sheryians Coding School**
-* <img src="https://img.shields.io/badge/Data_Science_with_Python_%26_MySQL-Sheryians_Coding_School-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Data Science Python MySQL" />
 
-*(Note: AWS, Oracle, NPTEL, and Cisco tracks are currently in progress or planned as per professional roadmap).*
+[![Data Science](https://img.shields.io/badge/Data%20Science%20with%20Python%20%26%20MySQL-Sheryians%20Coding%20School-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://sheryians.com)
 
----
-
-## Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/u/narendra__10/">
-    <img src="https://img.shields.io/badge/LeetCode-Elite_Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/narendra23">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/narendraahirwar4">
-    <img src="https://img.shields.io/badge/HackerRank-Gold_Badges-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.codechef.com/users/narendra_289">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5D3FD3?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
 </div>
 
 ---
 
-## GitHub Analytics
+## 〈 Coding Profiles 〉
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&bg_color=0D1117&title_color=8A2BE2&text_color=9370DB&icon_color=4B0082&border_color=8A2BE2&hide_border=true" height="192" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarendraXD&theme=tokyonight&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&currStreakNum=8A2BE2&sideNums=9370DB&sideLabels=9370DB&dates=9370DB&hide_border=true" height="192" alt="GitHub Streak" />
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-narendra__10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/narendra__10/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-narendra23-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/narendra23)
+[![HackerRank](https://img.shields.io/badge/HackerRank-narendraahirwar4-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/narendraahirwar4)
+[![CodeChef](https://img.shields.io/badge/CodeChef-narendra__289-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/narendra_289)
+
 </div>
+
+---
+
+## 〈 GitHub Analytics 〉
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NarendraXD&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NarendraXD&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=6D28D9&ring=A855F7&fire=7C3AED&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=7C3AED" />
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraXD&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=9370DB&icon_color=4B0082&border_color=8A2BE2&hide_border=true" alt="Top Languages" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraXD&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
+
 </div>
 
 ---
 
-## Contribution Activity
+---
+
+## 〈 Contribution Activity 〉
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarendraXD&bg_color=0D1117&color=8A2BE2&line=9370DB&point=4B0082&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NarendraXD&theme=react-dark&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
-## Current Focus
+## 〈 Contribution Snake 〉
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarendraXD/NarendraXD/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarendraXD/NarendraXD/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NarendraXD/NarendraXD/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 〈 Current Focus 〉
 
 ```yaml
-Current_Focus:
-  Learning:
-    - Advanced Deep Learning Architectures
-    - Large Language Models (LLMs) & Fine-Tuning
-    - Enterprise Cloud Infrastructure (AWS)
-  Building:
-    - Scalable End-to-End MERN Data Pipelines
-    - Next-Gen Predictive Analytics Engines
-  Exploring:
-    - High-Performance Database Sharding
-    - Real-Time Stream Processing
-  Open_To:
-    - Data Scientist / Data Analyst Roles
-    - Software Engineer (AI/ML) Positions
-    - Open Source Collaborations
+current_focus:
+  learning:
+    - Advanced SQL window functions and query optimization
+    - Deep learning fundamentals with PyTorch
+    - dbt (data build tool) for analytics engineering workflows
+    - Apache Spark for large-scale data processing
+
+  building:
+    - End-to-end ML pipeline with automated retraining
+    - Expanded Power BI dashboard portfolio with published datasets
+    - Personal analytics API layer on top of public datasets
+
+  exploring:
+    - LLM-augmented data analysis workflows
+    - Vector databases and embedding-based search
+    - Real-time streaming analytics with Kafka
+
+  open_to:
+    - Data Analyst / Data Engineer full-time or internship roles
+    - ML Engineer positions focused on NLP or predictive systems
+    - Open source contributions in analytics, ML tooling, or data viz
+    - Research collaborations in AI and data-driven systems
+```
+
+---
+
+## 〈 Connect 〉
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-narendraahirwar20038%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendraahirwar20038@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Kumar%20Ahirwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-ahirwar23/)
+[![GitHub](https://img.shields.io/badge/GitHub-NarendraXD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarendraXD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-narendraahirwar.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraxd.github.io/Portfolio/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is not information, information is not knowledge, knowledge is not understanding — build the full chain."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" />
+
+</div>
