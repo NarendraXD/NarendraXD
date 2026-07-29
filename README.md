@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Narendra%20Kumar%20Ahirwar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16&animation=twinkling)
-
-<br/>
+# Narendra Kumar Ahirwar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=750&lines=Building+Data+Pipelines+%26+Analytics+Dashboards;NLP+%7C+Machine+Learning+%7C+Predictive+Modeling;ETL+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+Scikit-Learn;Translating+Raw+Data+into+Business+Intelligence)](https://git.io/typing-svg)
 
@@ -14,7 +12,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Bhopal%2C%20MP-India-8B5CF6?style=flat-square)
+![Location](https://img.shields.io/badge/Bhopal%2C%20MP-India-8B5CF6?style=flat-square)
 
 <br/>
 
@@ -137,7 +135,7 @@ The pipeline begins with a Python ETL layer using Pandas to handle null imputati
 | **Impact** | Actionable sentiment distributions and word-frequency trend reports |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-SenticScraper-7C3AED?style=flat-square&logo=github)](https://github.com/NarendraXD) |
 
-Multiple scikit-learn classification algorithms were trained and benchmarked; the final model was selected based on F1-score optimization under cross-validation. Visualization outputs include sentiment distribution charts and word frequency heatmaps produced in Matplotlib and Seaborn.
+Multiple scikit-learn classification algorithms were trained and benchmarked; the final model was selected based on F1-score optimization under cross-validation.
 
 <br/>
 
@@ -156,7 +154,7 @@ Multiple scikit-learn classification algorithms were trained and benchmarked; th
 | **Performance** | 10% reduction in inventory costs via weekly demand forecasting |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-flight--app-7C3AED?style=flat-square&logo=github)](https://github.com/NarendraXD/flight-app) |
 
-Designed a dark-themed, data-forward UI surfacing real-time booking data and seat availability. Integrated multiple predictive models to forecast weekly demand, enabling procurement teams to optimize inventory and cut waste.
+Designed a dark-themed, data-forward UI surfacing real-time booking data and seat availability. Integrated multiple predictive models to forecast weekly demand.
 
 <br/>
 
@@ -314,7 +312,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-narendraahirwar20038%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendraahirwar20038@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Kumar%20Ahirwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-ahirwar23/)
 [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarendraXD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-narendraxd.github.io%2FPortfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraxd.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-narendraxd.github.io-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraxd.github.io/Portfolio/)
 
 </div>
 
@@ -323,7 +321,5 @@ current_focus:
 <div align="center">
 
 *"Data is not information, information is not knowledge, knowledge is not understanding — build the full chain."*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer)
 
 </div>
