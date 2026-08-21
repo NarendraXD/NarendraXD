@@ -16,7 +16,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraxd.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendra-ahirwar-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-ahirwar23/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendraahirwar20038@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarendraXD)
@@ -101,7 +101,7 @@ Beyond analytics, I contribute to **full stack MERN applications**, architect da
 ## 〈 Featured Projects 〉
 
 <details>
-<summary><b>📊 HR Analytics Dashboard — Power BI + Python ETL</b></summary>
+<summary><b> HR Analytics Dashboard — Power BI + Python ETL</b></summary>
 
 <br/>
 
@@ -122,7 +122,7 @@ The pipeline begins with a Python ETL layer using Pandas to handle null imputati
 </details>
 
 <details>
-<summary><b>🧠 SenticScraper — Sentiment Analysis Engine</b></summary>
+<summary><b> SenticScraper — Sentiment Analysis Engine</b></summary>
 
 <br/>
 
@@ -142,7 +142,7 @@ Multiple scikit-learn classification algorithms were trained and benchmarked; th
 </details>
 
 <details>
-<summary><b>✈️ Flight Management Application — MERN Stack</b></summary>
+<summary><b> Flight Management Application — MERN Stack</b></summary>
 
 <br/>
 
@@ -161,7 +161,7 @@ Designed a dark-themed, data-forward UI surfacing real-time booking data and sea
 </details>
 
 <details>
-<summary><b>🎵 Muzik — Full Stack Music Application</b></summary>
+<summary><b> Muzik — Full Stack Music Application</b></summary>
 
 <br/>
 
@@ -312,7 +312,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-narendraahirwar20038%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendraahirwar20038@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Kumar%20Ahirwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-ahirwar23/)
 [![GitHub](https://img.shields.io/badge/GitHub-NarendraXD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarendraXD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-narendraxd.github.io-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendraxd.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-narendraxd.github.io-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://narendra-ahirwar-portfolio.vercel.app/)
 
 </div>
 
